@@ -1,5 +1,5 @@
 # SelectionPressureAnalisys
-This repository provides costum scripts (i.e. pseudopipeline) to analysis multiple genes at the same time for selection pressure.
+This repository provides costum scripts (i.e. pseudopipeline) to analysis multiple genes at the same time for selection pressure. \n
 
 There pipeline includes: 
 1- retrivial of CDS sequences of orthologue genes, 
